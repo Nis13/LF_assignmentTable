@@ -1,0 +1,23 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table, td, th {
+  border: 1px solid black;
+}
+th{
+    background-color: grey;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin: 0 auto;
+}
+
+td {
+  text-align: center;
+}
+        
+        
